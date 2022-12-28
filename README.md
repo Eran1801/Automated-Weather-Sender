@@ -53,7 +53,7 @@ To deploy this project you:
 ```
   deta cron set "0 18 ? * MON-FRI *"
 ```
-
+## And you DONE! 
 
 ## Environment Variables
 To run this project, you will need to add the following environment variables to your .env file <br/>
