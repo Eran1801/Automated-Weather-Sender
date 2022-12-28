@@ -22,7 +22,7 @@ python-dotenv
 ## Deployment
 **Official Documentation:** https://docs.deta.sh/docs/micros/getting_started <br/>
 
-[FOR WINDOWS] 
+[FOR WINDOWS and MAC] 
 To deploy this project you:
 1) login via the deta CLI
 ```
